@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Random Password Genrator App</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Genrator a <br> <span>Random Password</span></h1>
+        <div class="display">
+            <input type="text" name="" id="password" placeholder="Password">
+            <img onclick="copyPassword()" src="./images/copy.png">
+        </div>
+        <button onclick="createPassword()"><img src="./images/generate.png" alt="">Genrator Passowrd</button>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

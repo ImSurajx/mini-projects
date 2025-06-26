@@ -58,6 +58,9 @@ cd mini-projects
 > Will be updated as I progress through the playlist.
 
 - [x] Day 01 - Weather App  
+- [x] Day 02 - To-Do List App  
+- [x] Day 03 - Quiz App  
+- [x] Day 04 - Random Password Genrator App  
 
 ---
 
