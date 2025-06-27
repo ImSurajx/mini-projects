@@ -61,7 +61,7 @@ cd mini-projects
 - [x] Day 02 - To-Do List App  
 - [x] Day 03 - Quiz App  
 - [x] Day 04 - Random Password Genrator App  
-
+- [x] Day 05 - Notes App
 ---
 
 ## 🤝 Contribution
