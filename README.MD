@@ -62,6 +62,8 @@ cd mini-projects
 - [x] Day 03 - Quiz App  
 - [x] Day 04 - Random Password Genrator App  
 - [x] Day 05 - Notes App
+- [x] Day 06 - Age Calculator App
+
 ---
 
 ## 🤝 Contribution
