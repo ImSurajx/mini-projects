@@ -65,7 +65,7 @@ cd mini-projects
 - [x] Day 06 - Age Calculator App
 - [x] Day 07 - QR Code Generator App
 - [x] Day 08 - Toast Notification / Snack Bar
-
+- [x] Day 09 - Music App
 ---
 
 ## 🤝 Contribution
