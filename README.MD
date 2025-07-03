@@ -66,6 +66,7 @@ cd mini-projects
 - [x] Day 07 - QR Code Generator App
 - [x] Day 08 - Toast Notification / Snack Bar
 - [x] Day 09 - Music App
+- [x] Day 10 - Stopwatch App
 ---
 
 ## 🤝 Contribution
