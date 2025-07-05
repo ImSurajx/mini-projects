@@ -69,6 +69,7 @@ cd mini-projects
 - [x] Day 10 - Stopwatch App
 - [x] Day 11 - Currency Converter App
 - [x] Day 12 - Calculator App
+- [x] Day 12 - Popup
 
 ---
 
