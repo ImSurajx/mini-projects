@@ -69,8 +69,9 @@ cd mini-projects
 - [x] Day 10 - Stopwatch App
 - [x] Day 11 - Currency Converter App
 - [x] Day 12 - Calculator App
-- [x] Day 12 - Popup
-- [x] Day 13 - Password Toggle
+- [x] Day 13 - Popup
+- [x] Day 14 - Password Toggle
+- [x] Day 15 - Portfolio Site with Light /Dark Mode
 
 ---
 
