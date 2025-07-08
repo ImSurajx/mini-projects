@@ -71,7 +71,8 @@ cd mini-projects
 - [x] Day 12 - Calculator App
 - [x] Day 13 - Popup
 - [x] Day 14 - Password Toggle
-- [x] Day 15 - Portfolio Site with Light /Dark Mode
+- [x] Day 15 - Portfolio Site with Light / Dark Mode
+- [x] Day 16 - Validation Form
 
 ---
 
