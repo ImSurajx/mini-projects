@@ -78,6 +78,7 @@ cd mini-projects
 - [x] Day 19 - Password Strength Indicator
 - [x] Day 20 - Text to Speech Converter App
 - [x] Day 21 - Coming Soon Page
+- [x] Day 22 - Background Change Effect
 
 ---
 
