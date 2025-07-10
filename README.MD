@@ -74,7 +74,7 @@ cd mini-projects
 - [x] Day 15 - Portfolio Site with Light / Dark Mode
 - [x] Day 16 - Validation Form
 - [x] Day 17 - Image Gallery
-
+- [x] Day 18 - Email Subscription
 ---
 
 ## 🤝 Contribution
