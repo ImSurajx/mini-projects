@@ -76,6 +76,7 @@ cd mini-projects
 - [x] Day 17 - Image Gallery
 - [x] Day 18 - Email Subscription
 - [x] Day 19 - Password Strength Indicator
+- [x] Day 20 - Text to Speech Converter App
 ---
 
 ## 🤝 Contribution
