@@ -79,7 +79,7 @@ cd mini-projects
 - [x] Day 20 - Text to Speech Converter App
 - [x] Day 21 - Coming Soon Page
 - [x] Day 22 - Background Change Effect
-
+- [x] Day 23 - Mini Calender
 ---
 
 ## 🤝 Contribution
