@@ -80,6 +80,8 @@ cd mini-projects
 - [x] Day 21 - Coming Soon Page
 - [x] Day 22 - Background Change Effect
 - [x] Day 23 - Mini Calender
+- [x] Day 24 - Select Menu
+
 ---
 
 ## 🤝 Contribution
