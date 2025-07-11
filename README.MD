@@ -81,7 +81,7 @@ cd mini-projects
 - [x] Day 22 - Background Change Effect
 - [x] Day 23 - Mini Calender
 - [x] Day 24 - Select Menu
-
+- [x] Day 25 - Product Page
 ---
 
 ## 🤝 Contribution
