@@ -83,6 +83,7 @@ cd mini-projects
 - [x] Day 24 - Select Menu
 - [x] Day 25 - Product Page
 - [x] Day 26 - Drag & Drop
+- [x] Day 27 - Digital Clock
 ---
 
 ## 🤝 Contribution
