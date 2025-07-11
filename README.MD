@@ -85,6 +85,7 @@ cd mini-projects
 - [x] Day 26 - Drag & Drop
 - [x] Day 27 - Digital Clock
 - [x] Day 28 - Progress Bar
+- [x] Day 29 - Cryptocurrency Website
 
 ---
 
