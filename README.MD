@@ -86,6 +86,7 @@ cd mini-projects
 - [x] Day 27 - Digital Clock
 - [x] Day 28 - Progress Bar
 - [x] Day 29 - Cryptocurrency Website
+- [x] Day 30 - Image Search Engine
 
 ---
 
